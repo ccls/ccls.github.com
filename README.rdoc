@@ -1,0 +1,6 @@
+= CCLS.github.com
+
+The pages here are the source of {ccls.github.com}[http://ccls.github.com/]
+
+
+Copyright (c) 2011 [Jake Wendt], released under the MIT license
